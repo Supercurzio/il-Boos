@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>fede</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>controllers/shortcodes/add-question.php</name>
+			<type>1</type>
+			<location>C:/Users/Federico/git/fede/controllers/shortcodes/add-question.php</location>
+		</link>
+		<link>
+			<name>controllers/shortcodes/answers.php</name>
+			<type>1</type>
+			<location>C:/Users/Federico/git/fede/controllers/shortcodes/answers.php</location>
+		</link>
+		<link>
+			<name>controllers/shortcodes/questions.php</name>
+			<type>1</type>
+			<location>C:/Users/Federico/git/fede/controllers/shortcodes/questions.php</location>
+		</link>
+	</linkedResources>
+</projectDescription>

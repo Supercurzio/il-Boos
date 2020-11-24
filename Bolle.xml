@@ -1,0 +1,3342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:card xmlns:xsi="http://www.w3.org/2001/XMLSchema" 
+xsi:noNamespaceSchemaLocation="bolleoff.xsd">
+
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>30</rif>
+		<nc>1022</nc>
+		<Date>43516</Date>
+		<idCl>6563</idCl>
+		<name>GABRIELLI</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43544</Datacons>
+		<disp>0</disp>
+		<pz1>4</pz1>
+		<h1>90</h1>
+		<s1>30</s1>
+		<l1>2320</l1>
+		<dis1>TAV. U C1</dis1>
+		<pz2>2</pz2>
+		<h2>110</h2>
+		<s2>38</s2>
+		<l2>2780</l2>
+		<dis2>TAV. U C3</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>FERLAT</forn1>
+		<nbar1>2</nbar1>
+		<hg1>105</hg1>
+		<sg1>35</sg1>
+		<lg1>5000</lg1>
+		<kg1>271.755225</kg1>
+		<ava1>1000</ava1>
+		<mat2> 3B4</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>1</nbar2>
+		<hg2>125</hg2>
+		<sg2>45</sg2>
+		<lg2>5600</lg2>
+		<kg2>248.5996875</kg2>
+		<ava2>40</ava2>
+		<mat3> </mat3>
+		<forn3>NS.MAGAZ.</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3>28</ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>30</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>29</rif>
+		<nc>1022</nc>
+		<Date>43516</Date>
+		<idCl>6563</idCl>
+		<name>GABRIELLI</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43544</Datacons>
+		<disp>0</disp>
+		<pz1>4</pz1>
+		<h1>80</h1>
+		<s1>30</s1>
+		<l1>2200</l1>
+		<dis1>CER 148 0B 131</dis1>
+		<pz2>1</pz2>
+		<h2>80</h2>
+		<s2>30</s2>
+		<l2>2200</l2>
+		<dis2>CER 148 0B 130</dis2>
+		<npz3>1</npz3>
+		<h3>80</h3>
+		<s3>30</s3>
+		<l3>2200</l3>
+		<dis3>CER 148 0B 130</dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>2</nbar1>
+		<hg1>90</hg1>
+		<sg1>40</sg1>
+		<lg1>5180</lg1>
+		<kg1>252.6444</kg1>
+		<ava1>1000</ava1>
+		<mat2> 3B4</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>1</nbar2>
+		<hg2>90</hg2>
+		<sg2>40</sg2>
+		<lg2>3800</lg2>
+		<kg2>64.1502</kg2>
+		<ava2>1600</ava2>
+		<mat3> 3B4</mat3>
+		<forn3>NS.MAGAZ.</forn3>
+		<nbar3>1</nbar3>
+		<hg3>90</hg3>
+		<sg3>40</sg3>
+		<lg3>3410</lg3>
+		<kg3>64.1502</kg3>
+		<ava3>1210</ava3>
+		<ord3>28</ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>29</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note>1 BARRE 90X40X5000 FERLAT ORD.28</note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>28</rif>
+		<nc>1036</nc>
+		<Date>43515</Date>
+		<idCl>18400</idCl>
+		<name>SALICO</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43552</Datacons>
+		<disp>0</disp>
+		<pz1>1</pz1>
+		<h1>70</h1>
+		<s1>20</s1>
+		<l1>1750</l1>
+		<dis1>CER 141 0B 103 new</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>75</hg1>
+		<sg1>25</sg1>
+		<lg1>3200</lg1>
+		<kg1>26.788125</kg1>
+		<ava1>1000</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>28</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>27</rif>
+		<nc>1032</nc>
+		<Date>43509</Date>
+		<idCl>102244</idCl>
+		<name>VOESTALPINE</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43546</Datacons>
+		<disp>Destinazione Estero</disp>
+		<pz1>20</pz1>
+		<h1>50</h1>
+		<s1>20</s1>
+		<l1>1800</l1>
+		<dis1> JK-LZH 0208.5009</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>FERLAT</forn1>
+		<nbar1>10</nbar1>
+		<hg1>61</hg1>
+		<sg1>25</sg1>
+		<lg1>3700</lg1>
+		<kg1>442.9</kg1>
+		<ava1>100</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3>27</ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>27</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>26</rif>
+		<nc>1009</nc>
+		<Date>43508</Date>
+		<idCl>123713</idCl>
+		<name>DGR MAKINE</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43524</Datacons>
+		<disp>Destinazione Estero</disp>
+		<pz1>2</pz1>
+		<h1>100</h1>
+		<s1>30</s1>
+		<l1>6200</l1>
+		<dis1>FARINA CFO 625</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>FERLAT</forn1>
+		<nbar1>2</nbar1>
+		<hg1>105</hg1>
+		<sg1>35</sg1>
+		<lg1>10000</lg1>
+		<kg1>361.763325</kg1>
+		<ava1>1000</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3>120B</ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>26</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>25</rif>
+		<nc>1026</nc>
+		<Date>43507</Date>
+		<idCl>22125</idCl>
+		<name>OUTOKUMPU</name>
+		<prod>TRANCIASFRIDI 04</prod>
+		<idPro>04</idPro>
+		<Datacons>43532</Datacons>
+		<disp>=</disp>
+		<pz1>8</pz1>
+		<h1>55</h1>
+		<s1>25</s1>
+		<l1>198</l1>
+		<dis1>TSF 019 0B 110</dis1>
+		<pz2>4</pz2>
+		<h2>55</h2>
+		<s2>25</s2>
+		<l2>201.64</l2>
+		<dis2>TSF 019 0B 111</dis2>
+		<npz3>4</npz3>
+		<h3>55</h3>
+		<s3>25</s3>
+		<l3>201.64</l3>
+		<dis3>TSF 019 0B 112</dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>60</hg1>
+		<sg1>28</sg1>
+		<lg1>1600</lg1>
+		<kg1>21.812952</kg1>
+		<ava1>1000</ava1>
+		<mat2> 3B4</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>1</nbar2>
+		<hg2>60</hg2>
+		<sg2>28</sg2>
+		<lg2>820</lg2>
+		<kg2>11.56007328</kg2>
+		<ava2>13.4400000000001</ava2>
+		<mat3> 3B4</mat3>
+		<forn3>NS.MAGAZ.</forn3>
+		<nbar3>1</nbar3>
+		<hg3>60</hg3>
+		<sg3>28</sg3>
+		<lg3>820</lg3>
+		<kg3>11.56007328</kg3>
+		<ava3>13.4400000000001</ava3>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>25</buono>
+		<noteop>=</noteop>
+		<note> PRELIEVO DA 5000</note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>24</rif>
+		<nc>1004</nc>
+		<Date>43507</Date>
+		<idCl>18400</idCl>
+		<name>SALICO</name>
+		<prod>TRANCIASFRIDI 04</prod>
+		<idPro>04</idPro>
+		<Datacons>43539</Datacons>
+		<disp>=</disp>
+		<pz1>12</pz1>
+		<h1>50.15</h1>
+		<s1>24.5</s1>
+		<l1>168.5</l1>
+		<dis1>TSF 023 0A 013</dis1>
+		<pz2>12</pz2>
+		<h2>50.15</h2>
+		<s2>24.5</s2>
+		<l2>168.5</l2>
+		<dis2>TSF 023 0A 006</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>55</hg1>
+		<sg1>30</sg1>
+		<lg1>2050</lg1>
+		<kg1>27.09663</kg1>
+		<ava1>1000</ava1>
+		<mat2> 3B4</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>1</nbar2>
+		<hg2>55</hg2>
+		<sg2>30</sg2>
+		<lg2>2050</lg2>
+		<kg2>27.09663</kg2>
+		<ava2>28</ava2>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>24</buono>
+		<noteop>=</noteop>
+		<note>CERCARE AVANZI</note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>23</rif>
+		<nc>1010</nc>
+		<Date>43507</Date>
+		<idCl>5071</idCl>
+		<name>FIMI</name>
+		<prod>PRODOTTO ELETTROEROSO 22</prod>
+		<idPro>22</idPro>
+		<Datacons>43532</Datacons>
+		<disp>=</disp>
+		<pz1>8</pz1>
+		<h1>21.61</h1>
+		<s1>12.5</s1>
+		<l1>281.5</l1>
+		<dis1>1662_MAA 123 B</dis1>
+		<pz2>8</pz2>
+		<h2>21.61</h2>
+		<s2>12.5</s2>
+		<l2>281.5</l2>
+		<dis2>40.00017468.00</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>1EB1</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>25</hg1>
+		<sg1>15</sg1>
+		<lg1>2300</lg1>
+		<kg1>6.8353875</kg1>
+		<ava1>1000</ava1>
+		<mat2>1EB1</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>1</nbar2>
+		<hg2>25</hg2>
+		<sg2>15</sg2>
+		<lg2>2300</lg2>
+		<kg2>6.8353875</kg2>
+		<ava2>48</ava2>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>23</buono>
+		<noteop>=</noteop>
+		<note>CERCARE AVANZI TEMP.</note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>22</rif>
+		<nc>1023</nc>
+		<Date>43507</Date>
+		<idCl>12693</idCl>
+		<name>NOVASTILMEC</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43532</Datacons>
+		<disp>=</disp>
+		<pz1>1</pz1>
+		<h1>30</h1>
+		<s1>10</s1>
+		<l1>2700</l1>
+		<dis1>AMC221L108</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>3V1</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>45</hg1>
+		<sg1>25</sg1>
+		<lg1>3000</lg1>
+		<kg1>24.4625625</kg1>
+		<ava1>1000</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>22</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>21</rif>
+		<nc>1012</nc>
+		<Date>43507</Date>
+		<idCl>13215</idCl>
+		<name>TPC</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43532</Datacons>
+		<disp>=</disp>
+		<pz1>2</pz1>
+		<h1>60</h1>
+		<s1>12</s1>
+		<l1>3100</l1>
+		<dis1>CO1547</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>3V1</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>2</nbar1>
+		<hg1>70</hg1>
+		<sg1>15</sg1>
+		<lg1>5000</lg1>
+		<kg1>52.25745</kg1>
+		<ava1>1000</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>21</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>20</rif>
+		<nc>1018</nc>
+		<Date>43502</Date>
+		<idCl>2375</idCl>
+		<name>CTF</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43529</Datacons>
+		<disp>0</disp>
+		<pz1>1</pz1>
+		<h1>60</h1>
+		<s1>12</s1>
+		<l1>2000</l1>
+		<dis1>TMST 015</dis1>
+		<pz2>1</pz2>
+		<h2>60</h2>
+		<s2>12</s2>
+		<l2>1980</l2>
+		<dis2>TMST 014</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>3V1</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>70</hg1>
+		<sg1>15</sg1>
+		<lg1>5000</lg1>
+		<kg1>35.3</kg1>
+		<ava1>1000</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>20</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>19</rif>
+		<nc>1011</nc>
+		<Date>43502</Date>
+		<idCl>123714</idCl>
+		<name>COILEX</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43529</Datacons>
+		<disp>0</disp>
+		<pz1>4</pz1>
+		<h1>100</h1>
+		<s1>35</s1>
+		<l1>2250</l1>
+		<dis1> UTE 1205049</dis1>
+		<pz2>2</pz2>
+		<h2>100</h2>
+		<s2>35</s2>
+		<l2>2250</l2>
+		<dis2> UTE 1205049</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>2</nbar1>
+		<hg1>125</hg1>
+		<sg1>40</sg1>
+		<lg1>5600</lg1>
+		<kg1>358.7</kg1>
+		<ava1>1100</ava1>
+		<mat2> 3B4</mat2>
+		<forn2>=</forn2>
+		<nbar2>1</nbar2>
+		<hg2>125</hg2>
+		<sg2>45</sg2>
+		<lg2>5600</lg2>
+		<kg2>201.7</kg2>
+		<ava2>1100</ava2>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>19</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note>CASSA PER TRASOPRTO MARITTIMO</note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>18</rif>
+		<nc>1027</nc>
+		<Date>43502</Date>
+		<idCl>121090</idCl>
+		<name> SAKU METALL</name>
+		<prod>ALTRO PRODOTTO 06</prod>
+		<idPro>06</idPro>
+		<Datacons>43565</Datacons>
+		<disp>0</disp>
+		<pz1>1</pz1>
+		<h1>42</h1>
+		<s1>22</s1>
+		<l1>3000</l1>
+		<dis1>9162/7</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>CES</mat1>
+		<forn1>Traf. Fabrizio</forn1>
+		<nbar1>2</nbar1>
+		<hg1>50</hg1>
+		<sg1>30</sg1>
+		<lg1>2000</lg1>
+		<kg1>36.9735</kg1>
+		<ava1>500</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2>0</hg2>
+		<sg2>0</sg2>
+		<lg2>0</lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>18</buono>
+		<noteop>=</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>16</rif>
+		<nc>1181</nc>
+		<Date>43502</Date>
+		<idCl>13451</idCl>
+		<name>GBL</name>
+		<prod>SPALMATORI 03</prod>
+		<idPro>03</idPro>
+		<Datacons>43565</Datacons>
+		<disp>0</disp>
+		<pz1>2</pz1>
+		<h1>350</h1>
+		<s1>25</s1>
+		<l1>3200</l1>
+		<dis1> </dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>88MV8</mat1>
+		<forn1>Traf. Fabrizio</forn1>
+		<nbar1>2</nbar1>
+		<hg1>350</hg1>
+		<sg1>30</sg1>
+		<lg1>3200</lg1>
+		<kg1>539.0595</kg1>
+		<ava1>0</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3>5</ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>16</buono>
+		<noteop>=</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>17</rif>
+		<nc>1181</nc>
+		<Date>43502</Date>
+		<idCl>13451</idCl>
+		<name>GBL</name>
+		<prod>SPALMATORI 03</prod>
+		<idPro>03</idPro>
+		<Datacons>43534</Datacons>
+		<disp>0</disp>
+		<pz1>1</pz1>
+		<h1>350</h1>
+		<s1>25</s1>
+		<l1>3200</l1>
+		<dis1> </dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>88MV8</mat1>
+		<forn1>Traf. Fabrizio</forn1>
+		<nbar1>1</nbar1>
+		<hg1>350</hg1>
+		<sg1>30</sg1>
+		<lg1>3200</lg1>
+		<kg1>269.52975</kg1>
+		<ava1>0</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3>5</ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>16</buono>
+		<noteop>=</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>15</rif>
+		<nc>1014</nc>
+		<Date>43501</Date>
+		<idCl>18400</idCl>
+		<name>SALICO</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43525</Datacons>
+		<disp>0</disp>
+		<pz1>6</pz1>
+		<h1>70</h1>
+		<s1>20</s1>
+		<l1>1750</l1>
+		<dis1>CER 141 0B 103</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>2</nbar1>
+		<hg1>75</hg1>
+		<sg1>25</sg1>
+		<lg1>5600</lg1>
+		<kg1>156.6075</kg1>
+		<ava1>350</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3>0</mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>15</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>14</rif>
+		<nc>1019</nc>
+		<Date>43501</Date>
+		<idCl>19608</idCl>
+		<name>CPC INOX</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43521</Datacons>
+		<disp>0</disp>
+		<pz1>4</pz1>
+		<h1>60</h1>
+		<s1>20</s1>
+		<l1>425</l1>
+		<dis1> </dis1>
+		<pz2>3</pz2>
+		<h2>45.5</h2>
+		<s2>22</s2>
+		<l2>160</l2>
+		<dis2>SA248P001</dis2>
+		<npz3>3</npz3>
+		<h3>45.5</h3>
+		<s3>22</s3>
+		<l3>160</l3>
+		<dis3>SA248P001 A</dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>4</nbar1>
+		<hg1>85</hg1>
+		<sg1>25</sg1>
+		<lg1>520</lg1>
+		<kg1>33.028875</kg1>
+		<ava1>95</ava1>
+		<mat2> 3B4</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>1</nbar2>
+		<hg2>85</hg2>
+		<sg2>25</sg2>
+		<lg2>350</lg2>
+		<kg2>9.1746875</kg2>
+		<ava2>-130</ava2>
+		<mat3> 3B4</mat3>
+		<forn3>NS.MAGAZ.</forn3>
+		<nbar3>1</nbar3>
+		<hg3>85</hg3>
+		<sg3>25</sg3>
+		<lg3>770</lg3>
+		<kg3>9.1746875</kg3>
+		<ava3>290</ava3>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>14</buono>
+		<noteop>=</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>13</rif>
+		<nc>1002</nc>
+		<Date>43501</Date>
+		<idCl>5071</idCl>
+		<name>FIMI</name>
+		<prod>TRANCIASFRIDI 04</prod>
+		<idPro>04</idPro>
+		<Datacons>43524</Datacons>
+		<disp>0</disp>
+		<pz1>16</pz1>
+		<h1>57</h1>
+		<s1>25</s1>
+		<l1>232.577</l1>
+		<dis1>4.700.117.124</dis1>
+		<pz2>16</pz2>
+		<h2>57</h2>
+		<s2>25</s2>
+		<l2>232.577</l2>
+		<dis2>4.700.118.124</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>60</hg1>
+		<sg1>28</sg1>
+		<lg1>3730</lg1>
+		<kg1>49.998767616</kg1>
+		<ava1>8.76800000000003</ava1>
+		<mat2> 3B4</mat2>
+		<forn2>=</forn2>
+		<nbar2>1</nbar2>
+		<hg2>60</hg2>
+		<sg2>28</sg2>
+		<lg2>3730</lg2>
+		<kg2>49.998767616</kg2>
+		<ava2>8.76800000000003</ava2>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>13</buono>
+		<noteop>=</noteop>
+		<note>CERCARE AVANZI</note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>12</rif>
+		<nc>1015</nc>
+		<Date>43501</Date>
+		<idCl>18400</idCl>
+		<name>SALICO</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43521</Datacons>
+		<disp>0</disp>
+		<pz1>1</pz1>
+		<h1>70</h1>
+		<s1>20</s1>
+		<l1>1750</l1>
+		<dis1>CER 141 0B 103 new</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>75</hg1>
+		<sg1>25</sg1>
+		<lg1>1780</lg1>
+		<kg1>26.788125</kg1>
+		<ava1>30</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>12</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>11</rif>
+		<nc>1180</nc>
+		<Date>43501</Date>
+		<idCl>2361</idCl>
+		<name>PLASMET</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43519</Datacons>
+		<disp>0</disp>
+		<pz1>1</pz1>
+		<h1>66</h1>
+		<s1>19</s1>
+		<l1>4120</l1>
+		<dis1>BOTTOM </dis1>
+		<pz2>1</pz2>
+		<h2>67.6</h2>
+		<s2>19</s2>
+		<l2>4120</l2>
+		<dis2>TOP</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>1EB1</mat1>
+		<forn1>SIDERTOCE</forn1>
+		<nbar1>1</nbar1>
+		<hg1>70</hg1>
+		<sg1>25</sg1>
+		<lg1>4150</lg1>
+		<kg1>57.560125</kg1>
+		<ava1>30</ava1>
+		<mat2>1EB1</mat2>
+		<forn2>SIDERTOCE</forn2>
+		<nbar2>1</nbar2>
+		<hg2>75</hg2>
+		<sg2>25</sg2>
+		<lg2>4150</lg2>
+		<kg2>61.6715625</kg2>
+		<ava2>30</ava2>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3>14</ord3>
+		<for>0</for>
+		<des> </des>
+		<ord>0</ord>
+		<kgpz> </kgpz>
+		<buono>11</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>10</rif>
+		<nc>1005</nc>
+		<Date>43500</Date>
+		<idCl>2183</idCl>
+		<name>FONTANA MACCHINE</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43516</Datacons>
+		<disp>0</disp>
+		<pz1>2</pz1>
+		<h1>55</h1>
+		<s1>12</s1>
+		<l1>1100</l1>
+		<dis1>01</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>3V1</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>70</hg1>
+		<sg1>20</sg1>
+		<lg1>1160</lg1>
+		<kg1>24.9473</kg1>
+		<ava1>-1040</ava1>
+		<mat2>=SE(INDICE(' Tabelle'!L41:L47;' Tabelle'!AC43;1)="P P";INDICE(' Tabelle'!A28:J48;' Tabelle'!AC39;1);INDICE(' Tabelle'!L41:L47;' Tabelle'!AC43;1))</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>1</nbar2>
+		<hg2>70</hg2>
+		<sg2>20</sg2>
+		<lg2>1220</lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>10</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>10</rif>
+		<nc>1021</nc>
+		<Date>43497</Date>
+		<idCl>5071</idCl>
+		<name>FIMI</name>
+		<prod>PRODOTTO ELETTROEROSO 22</prod>
+		<idPro>22</idPro>
+		<Datacons>43511</Datacons>
+		<disp>TASSATIVA</disp>
+		<pz1>2</pz1>
+		<h1>7.5</h1>
+		<s1>14</s1>
+		<l1>240</l1>
+		<dis1>40.00014546.00</dis1>
+		<pz2>1</pz2>
+		<h2>7.5</h2>
+		<s2>14</s2>
+		<l2>280</l2>
+		<dis2>40.00014546.00</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>1EB1</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>10</hg1>
+		<sg1>20</sg1>
+		<lg1>500</lg1>
+		<kg1>0.8635</kg1>
+		<ava1>20</ava1>
+		<mat2>=SE(INDICE(' Tabelle'!L41:L47;' Tabelle'!AC43;1)="P P";INDICE(' Tabelle'!A28:J48;' Tabelle'!AC39;1);INDICE(' Tabelle'!L41:L47;' Tabelle'!AC43;1))</mat2>
+		<forn2>=</forn2>
+		<nbar2>1</nbar2>
+		<hg2>10</hg2>
+		<sg2>20</sg2>
+		<lg2>300</lg2>
+		<kg2>0.5495</kg2>
+		<ava2>20</ava2>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>9</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note>CONSEGNA TASSATIVA</note>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>9</rif>
+		<nc>1185</nc>
+		<Date>43496</Date>
+		<idCl>18400</idCl>
+		<name>FIMI</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43515</Datacons>
+		<disp>Disp. Spediz.</disp>
+		<pz1>2</pz1>
+		<h1>70</h1>
+		<s1>20</s1>
+		<l1>800</l1>
+		<dis1>4.710.135.145</dis1>
+		<pz2>0</pz2>
+		<h2>0</h2>
+		<s2>0</s2>
+		<l2>0</l2>
+		<dis2>0</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>75</hg1>
+		<sg1>25</sg1>
+		<lg1>1700</lg1>
+		<kg1>24.5803125</kg1>
+		<ava1>100</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2>0</nbar2>
+		<hg2>0</hg2>
+		<sg2>0</sg2>
+		<lg2>0</lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3>0</ord3>
+		<for>0</for>
+		<des> </des>
+		<ord>0</ord>
+		<kgpz> </kgpz>
+		<buono>8</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note>0</note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>8</rif>
+		<nc>1013</nc>
+		<Date>43494</Date>
+		<idCl>18400</idCl>
+		<name>SALICO</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43514</Datacons>
+		<disp>TASSATIVA</disp>
+		<pz1>2</pz1>
+		<h1>80</h1>
+		<s1>15</s1>
+		<l1>2200</l1>
+		<dis1>CII 132 0A 006</dis1>
+		<pz2>0</pz2>
+		<h2>0</h2>
+		<s2>0</s2>
+		<l2>0</l2>
+		<dis2>0</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>3V1</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>85</hg1>
+		<sg1>25</sg1>
+		<lg1>5400</lg1>
+		<kg1>74.5651875</kg1>
+		<ava1>1000</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2>0</nbar2>
+		<hg2>0</hg2>
+		<sg2>0</sg2>
+		<lg2>0</lg2>
+		<kg2>0</kg2>
+		<ava2>0</ava2>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3>0</ord3>
+		<for>0</for>
+		<des> </des>
+		<ord>0</ord>
+		<kgpz> </kgpz>
+		<buono>7</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note>CONSEGNA TASSATIVA</note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>7</rif>
+		<nc>1008</nc>
+		<Date>43494</Date>
+		<idCl>5071</idCl>
+		<name>FIMI</name>
+		<prod>PRODOTTO ELETTROEROSO 22</prod>
+		<idPro>22</idPro>
+		<Datacons>43511</Datacons>
+		<disp>Disp. Spediz.</disp>
+		<pz1>9</pz1>
+		<h1>20</h1>
+		<s1>12</s1>
+		<l1>215</l1>
+		<dis1>4.638.133.128</dis1>
+		<pz2>1</pz2>
+		<h2>20</h2>
+		<s2>12</s2>
+		<l2>231</l2>
+		<dis2>4.638.134.128</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>1EB1</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>9</nbar1>
+		<hg1>25</hg1>
+		<sg1>15</sg1>
+		<lg1>220</lg1>
+		<kg1>6.49096875</kg1>
+		<ava1>45</ava1>
+		<mat2>0</mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3>0</ord3>
+		<for>0</for>
+		<des> </des>
+		<ord>0</ord>
+		<kgpz> </kgpz>
+		<buono>6</buono>
+		<noteop>UTILIZZARE AVANZI</noteop>
+		<note>ALLEGARE CERTIFICATI</note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>6</rif>
+		<nc>1006</nc>
+		<Date>43494</Date>
+		<idCl>7841</idCl>
+		<name>GRAEPEL</name>
+		<prod>LAMA per PRESSA PIEGATRICE 10</prod>
+		<idPro>10</idPro>
+		<Datacons>43507</Datacons>
+		<disp>Disp. Spediz.</disp>
+		<pz1>2</pz1>
+		<h1>37.7</h1>
+		<s1>14.8</s1>
+		<l1>1699.5</l1>
+		<dis1>D00418</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>42CD4</mat1>
+		<forn1>SIDERTOCE</forn1>
+		<nbar1>2</nbar1>
+		<hg1>40</hg1>
+		<sg1>15</sg1>
+		<lg1>1750</lg1>
+		<kg1>16.19298</kg1>
+		<ava1>101</ava1>
+		<mat2>0</mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for>SIDERTOCE</for>
+		<des> </des>
+		<ord>5</ord>
+		<kgpz> </kgpz>
+		<buono>5</buono>
+		<noteop>=</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>5</rif>
+		<nc>1007</nc>
+		<Date>43493</Date>
+		<idCl>2247</idCl>
+		<name>SCHIAVI</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43521</Datacons>
+		<disp>Disp. Spediz.</disp>
+		<pz1>2</pz1>
+		<h1>80</h1>
+		<s1>20</s1>
+		<l1>3100</l1>
+		<dis1>KA0001003330</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>3V1</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>2</nbar1>
+		<hg1>85</hg1>
+		<sg1>25</sg1>
+		<lg1>5170</lg1>
+		<kg1>36.69875</kg1>
+		<ava1>4140</ava1>
+		<mat2>0</mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>5</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>4</rif>
+		<nc>1177</nc>
+		<Date>43488</Date>
+		<idCl>18400</idCl>
+		<name>SALICO</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43131</Datacons>
+		<disp>Ritira Cliente</disp>
+		<pz1>1</pz1>
+		<h1>70</h1>
+		<s1>20</s1>
+		<l1>1750</l1>
+		<dis1>CER1410B103_NEW</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>=</forn1>
+		<nbar1>1</nbar1>
+		<hg1>75</hg1>
+		<sg1>25</sg1>
+		<lg1>2070</lg1>
+		<kg1>26.788125</kg1>
+		<ava1>320</ava1>
+		<mat2>0</mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono> </buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2019</esercizio>
+		<rif>3</rif>
+		<nc>1003</nc>
+		<Date>43479</Date>
+		<idCl>2247</idCl>
+		<name>SCHIAVI</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43511</Datacons>
+		<disp>TASSATIVA</disp>
+		<pz1>2</pz1>
+		<h1>80</h1>
+		<s1>20</s1>
+		<l1>3040</l1>
+		<dis1>KA0000001929</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>3V1</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>2</nbar1>
+		<hg1>85</hg1>
+		<sg1>25</sg1>
+		<lg1>5600</lg1>
+		<kg1>18.349375</kg1>
+		<ava1>5120</ava1>
+		<mat2> </mat2>
+		<forn2> </forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono> </buono>
+		<noteop>=</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>4</rif>
+		<nc>1174</nc>
+		<Date>43479</Date>
+		<idCl>123668</idCl>
+		<name>Moderne mec</name>
+		<prod>GUIDE DI SCORRIMENTO 21</prod>
+		<idPro>21</idPro>
+		<Datacons>43130</Datacons>
+		<disp>TASSATIVA</disp>
+		<pz1>10</pz1>
+		<h1>60</h1>
+		<s1>12</s1>
+		<l1>4140</l1>
+		<dis1>KA0000001929</dis1>
+		<pz2>10</pz2>
+		<h2>60</h2>
+		<s2>12</s2>
+		<l2>4140</l2>
+		<dis2>9321-37-5027</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>FE 37</mat1>
+		<forn1>Traf. Fabrizio</forn1>
+		<nbar1>10</nbar1>
+		<hg1>60</hg1>
+		<sg1>12</sg1>
+		<lg1>4140</lg1>
+		<kg1>237.9492</kg1>
+		<ava1>0</ava1>
+		<mat2>FE 37</mat2>
+		<forn2>Traf. Fabrizio</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono> </buono>
+		<noteop>=</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>5</rif>
+		<nc>1174</nc>
+		<Date>43479</Date>
+		<idCl>123668</idCl>
+		<name>Moderne mec</name>
+		<prod>GUIDE DI SCORRIMENTO 21</prod>
+		<idPro>21</idPro>
+		<Datacons>43130</Datacons>
+		<disp>Destinazione Estero</disp>
+		<pz1>10</pz1>
+		<h1>60</h1>
+		<s1>12</s1>
+		<l1>4140</l1>
+		<dis1>9321-37-5027</dis1>
+		<pz2>10</pz2>
+		<h2>60</h2>
+		<s2>12</s2>
+		<l2>4140</l2>
+		<dis2>9321-37-5028</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>FE 37</mat1>
+		<forn1>Traf. Fabrizio</forn1>
+		<nbar1>10</nbar1>
+		<hg1>60</hg1>
+		<sg1>12</sg1>
+		<lg1>4140</lg1>
+		<kg1>237.9492</kg1>
+		<ava1>0</ava1>
+		<mat2>FE 37</mat2>
+		<forn2>Traf. Fabrizio</forn2>
+		<nbar2>10</nbar2>
+		<hg2>60</hg2>
+		<sg2>12</sg2>
+		<lg2>4140</lg2>
+		<kg2>237.9492</kg2>
+		<ava2>0</ava2>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3>147</ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>174</buono>
+		<noteop>=</noteop>
+		<note> </note>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>276</rif>
+		<nc>1162</nc>
+		<Date>43473</Date>
+		<idCl>19608</idCl>
+		<name>CPC</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43107</Datacons>
+		<disp>Disposizioni Spediz.</disp>
+		<pz1>4</pz1>
+		<h1>120</h1>
+		<s1>50</s1>
+		<l1>2250</l1>
+		<dis1>4455023100</dis1>
+		<pz2>3</pz2>
+		<h2>80</h2>
+		<s2>30</s2>
+		<l2>1750</l2>
+		<dis2>4147201147</dis2>
+		<npz3>1</npz3>
+		<h3>80</h3>
+		<s3>30</s3>
+		<l3>1750</l3>
+		<dis3>4147201147</dis3>
+		<mat1>3EB4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>4</nbar1>
+		<hg1>125</hg1>
+		<sg1>55</sg1>
+		<lg1>2340</lg1>
+		<kg1>442.54375</kg1>
+		<ava1>360</ava1>
+		<mat2>3EB4</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>1</nbar2>
+		<hg2>125</hg2>
+		<sg2>55</sg2>
+		<lg2>5230</lg2>
+		<kg2>287.11375</kg2>
+		<ava2>-20</ava2>
+		<mat3>3EB4</mat3>
+		<forn3>=</forn3>
+		<nbar3>1</nbar3>
+		<hg3>90</hg3>
+		<sg3>40</sg3>
+		<lg3>5680</lg3>
+		<kg3>51.4332</kg3>
+		<ava3>3930</ava3>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>170</buono>
+		<noteop>UTILIZZARE AVANZI</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>276</rif>
+		<nc>1162</nc>
+		<Date>43473</Date>
+		<idCl>19608</idCl>
+		<name>CPC</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43107</Datacons>
+		<disp>Disposizioni Spediz.</disp>
+		<pz1>4</pz1>
+		<h1>120</h1>
+		<s1>50</s1>
+		<l1>2250</l1>
+		<dis1>4455023100</dis1>
+		<pz2>3</pz2>
+		<h2>80</h2>
+		<s2>30</s2>
+		<l2>1750</l2>
+		<dis2>4147201147</dis2>
+		<npz3>1</npz3>
+		<h3>80</h3>
+		<s3>30</s3>
+		<l3>1750</l3>
+		<dis3>4147201147</dis3>
+		<mat1>3EB4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>4</nbar1>
+		<hg1>125</hg1>
+		<sg1>55</sg1>
+		<lg1>2340</lg1>
+		<kg1>442.54375</kg1>
+		<ava1>360</ava1>
+		<mat2>3EB4</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>1</nbar2>
+		<hg2>125</hg2>
+		<sg2>55</sg2>
+		<lg2>5230</lg2>
+		<kg2>287.11375</kg2>
+		<ava2>-20</ava2>
+		<mat3>3EB4</mat3>
+		<forn3>=</forn3>
+		<nbar3>1</nbar3>
+		<hg3>90</hg3>
+		<sg3>40</sg3>
+		<lg3>5680</lg3>
+		<kg3>51.4332</kg3>
+		<ava3>3930</ava3>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>170</buono>
+		<noteop>UTILIZZARE AVANZI</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>311</rif>
+		<nc>1186</nc>
+		<Date>43473</Date>
+		<idCl>2360</idCl>
+		<name>UTILSERVICE</name>
+		<prod>LAMA per PRESSA PIEGATRICE 10</prod>
+		<idPro>10</idPro>
+		<Datacons>43511</Datacons>
+		<disp>Disposizioni Spediz.</disp>
+		<pz1>2</pz1>
+		<h1>135</h1>
+		<s1>27</s1>
+		<l1>1000</l1>
+		<dis1> </dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>42CD4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>140</hg1>
+		<sg1>30</sg1>
+		<lg1>2050</lg1>
+		<kg1>68.2479</kg1>
+		<ava1>50</ava1>
+		<mat2> </mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>2</buono>
+		<noteop>UTILIZZARE AVANZI</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>275</rif>
+		<nc>1164</nc>
+		<Date>43473</Date>
+		<idCl>9758</idCl>
+		<name>NOVASTILMEC</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43474</Datacons>
+		<disp>Disposizioni Spediz.</disp>
+		<pz1>2</pz1>
+		<h1>40</h1>
+		<s1>12</s1>
+		<l1>1100</l1>
+		<dis1>IMAL1020-20-1</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>1EB2</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>50</hg1>
+		<sg1>20</sg1>
+		<lg1>2230</lg1>
+		<kg1>17.8195</kg1>
+		<ava1>30</ava1>
+		<mat2> </mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>172</buono>
+		<noteop>UTILIZZARE AVANZI</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>301</rif>
+		<nc>1179</nc>
+		<Date>43473</Date>
+		<idCl>23727</idCl>
+		<name>KAIROS</name>
+		<prod>LAMA per P.P. TEMPERATA 11</prod>
+		<idPro>11</idPro>
+		<Datacons>43131</Datacons>
+		<disp>Disposizioni Spediz.</disp>
+		<pz1>1</pz1>
+		<h1>110</h1>
+		<s1>45</s1>
+		<l1>2150</l1>
+		<dis1>9159/1</dis1>
+		<pz2>1</pz2>
+		<h2>60</h2>
+		<s2>60</s2>
+		<l2>100</l2>
+		<dis2>9159/1</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>C 50</mat1>
+		<forn1>SIDERTOCE</forn1>
+		<nbar1>1</nbar1>
+		<hg1>115</hg1>
+		<sg1>50</sg1>
+		<lg1>2200</lg1>
+		<kg1>100.20525</kg1>
+		<ava1>50</ava1>
+		<mat2> </mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>187</buono>
+		<noteop>UTILIZZARE AVANZI</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>311</rif>
+		<nc>1187</nc>
+		<Date>43473</Date>
+		<idCl>5071</idCl>
+		<name>FIMI</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43131</Datacons>
+		<disp>URGENTE</disp>
+		<pz1>2</pz1>
+		<h1>70</h1>
+		<s1>20</s1>
+		<l1>780</l1>
+		<dis1>4.776.114.103</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>75</hg1>
+		<sg1>25</sg1>
+		<lg1>1650</lg1>
+		<kg1>23.9915625</kg1>
+		<ava1>90</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>210</buono>
+		<noteop>UTILIZZARE AVANZI</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>0</rif>
+		<nc>5005</nc>
+		<Date>43277</Date>
+		<idCl>1</idCl>
+		<name>MAGG</name>
+		<prod>MATRICE A RULLI RETTIFICATA  20</prod>
+		<idPro>20</idPro>
+		<Datacons>43800</Datacons>
+		<disp>=</disp>
+		<pz1>1</pz1>
+		<h1>95</h1>
+		<s1>60</s1>
+		<l1>3060</l1>
+		<dis1> </dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>C 50</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>100</hg1>
+		<sg1>70</sg1>
+		<lg1>3060</lg1>
+		<kg1>171.9935</kg1>
+		<ava1>0</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3>0</mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono> </buono>
+		<noteop>RETTIFICARE PER PARALLELISMO</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>293</rif>
+		<nc>1173</nc>
+		<Date>43453</Date>
+		<idCl>23553</idCl>
+		<name>PRFILPAS</name>
+		<prod>LAMA per PRESSA PIEGATRICE 10</prod>
+		<idPro>10</idPro>
+		<Datacons>43472</Datacons>
+		<disp>=</disp>
+		<pz1>1</pz1>
+		<h1>79</h1>
+		<s1>35</s1>
+		<l1>3200</l1>
+		<dis1>4621 A</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>42CD4</mat1>
+		<forn1>SIDERTOCE</forn1>
+		<nbar1>1</nbar1>
+		<hg1>90</hg1>
+		<sg1>40</sg1>
+		<lg1>3250</lg1>
+		<kg1>92.4102</kg1>
+		<ava1>50</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3>0</mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>178</buono>
+		<noteop>RETTIFICARE PER PARALLELISMO</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>146</rif>
+		<nc>1072</nc>
+		<Date>43273</Date>
+		<idCl>123635</idCl>
+		<name>STAUBLI</name>
+		<prod>GUIDE DI SCORRIMENTO 21</prod>
+		<idPro>21</idPro>
+		<Datacons>43383</Datacons>
+		<disp>=</disp>
+		<pz1>10</pz1>
+		<h1>60</h1>
+		<s1>10</s1>
+		<l1>6241</l1>
+		<dis1>B40230800</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>42CD4</mat1>
+		<forn1>Acc. del Cliente</forn1>
+		<nbar1>10</nbar1>
+		<hg1>70</hg1>
+		<sg1>20</sg1>
+		<lg1>6559</lg1>
+		<kg1>379.0451</kg1>
+		<ava1>3180</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3>0</mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for>TTL</for>
+		<des>TEMPRA INDUZ.</des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>0</buono>
+		<noteop>=</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>289</rif>
+		<nc>1170</nc>
+		<Date>43451</Date>
+		<idCl>5071</idCl>
+		<name>FIMI</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43479</Datacons>
+		<disp>Modalita' Spedizione</disp>
+		<pz1>2</pz1>
+		<h1>70</h1>
+		<s1>20</s1>
+		<l1>1800</l1>
+		<dis1>40.00007544.00</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>3V1</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>75</hg1>
+		<sg1>25</sg1>
+		<lg1>3800</lg1>
+		<kg1>54.0178125</kg1>
+		<ava1>200</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3>0</mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>173</buono>
+		<noteop>=</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>286</rif>
+		<nc>1167</nc>
+		<Date>43425</Date>
+		<idCl>18400</idCl>
+		<name>SALICO</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43469</Datacons>
+		<disp>Modalita' Spedizione</disp>
+		<pz1>2</pz1>
+		<h1>70</h1>
+		<s1>20</s1>
+		<l1>1750</l1>
+		<dis1>CER141 OB 109</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>3EB4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>75</hg1>
+		<sg1>25</sg1>
+		<lg1>3500</lg1>
+		<kg1>52.5459375</kg1>
+		<ava1>0</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3>0</mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>168</buono>
+		<noteop>=</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>275</rif>
+		<nc>1161</nc>
+		<Date>43424</Date>
+		<idCl>12693</idCl>
+		<name>NOVASTILMEC</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>01</idPro>
+		<Datacons>43472</Datacons>
+		<disp>Modalita' Spedizione</disp>
+		<pz1>1</pz1>
+		<h1>75</h1>
+		<s1>23</s1>
+		<l1>1650</l1>
+		<dis1>UTE1905012</dis1>
+		<pz2>1</pz2>
+		<h2>55</h2>
+		<s2>23</s2>
+		<l2>1650</l2>
+		<dis2>UTE1105047</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>3EB4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>85</hg1>
+		<sg1>25</sg1>
+		<lg1>4560</lg1>
+		<kg1>28.69175</kg1>
+		<ava1>2910</ava1>
+		<mat2>3EB4</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>1</nbar2>
+		<hg2>61</hg2>
+		<sg2>25</sg2>
+		<lg2>1770</lg2>
+		<kg2>20.59055</kg2>
+		<ava2>120</ava2>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>166</buono>
+		<noteop>=</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>272</rif>
+		<nc>1158</nc>
+		<Date>43418</Date>
+		<idCl>15875</idCl>
+		<name>STAM</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>1</idPro>
+		<Datacons>43454</Datacons>
+		<disp>=</disp>
+		<pz1>2</pz1>
+		<h1>60</h1>
+		<s1>30</s1>
+		<l1>685</l1>
+		<dis1>CD236/B-05</dis1>
+		<pz2>2</pz2>
+		<h2>60</h2>
+		<s2>30</s2>
+		<l2>690</l2>
+		<dis2>CD2236/B-08</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>3EB4</mat1>
+		<forn1>SIDERTOCE</forn1>
+		<nbar1>1</nbar1>
+		<hg1>105</hg1>
+		<sg1>35</sg1>
+		<lg1>1500</lg1>
+		<kg1>41.5422</kg1>
+		<ava1>130</ava1>
+		<mat2>3EB4</mat2>
+		<forn2>=</forn2>
+		<nbar2>2</nbar2>
+		<hg2>105</hg2>
+		<sg2>35</sg2>
+		<lg2>1400</lg2>
+		<kg2>83.66</kg2>
+		<ava2>20</ava2>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>164</buono>
+		<noteop> </noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>261</rif>
+		<nc>1153</nc>
+		<Date>43452</Date>
+		<idCl>123678</idCl>
+		<name>FIMI</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>1</idPro>
+		<Datacons>43494</Datacons>
+		<disp>=</disp>
+		<pz1>2</pz1>
+		<h1>80</h1>
+		<s1>30</s1>
+		<l1>1750</l1>
+		<dis1>4.147.201.147</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>1EB1</mat1>
+		<forn1>SIDERTOCE</forn1>
+		<nbar1>1</nbar1>
+		<hg1>90</hg1>
+		<sg1>35</sg1>
+		<lg1>3520</lg1>
+		<kg1>88.277175</kg1>
+		<ava1>20</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3>153</ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>176</buono>
+		<noteop> </noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>299</rif>
+		<nc>1176</nc>
+		<Date>43464</Date>
+		<idCl>123678</idCl>
+		<name>SEKO</name>
+		<prod>LAMA per PRESSA PIEGATRICE 10</prod>
+		<idPro>10</idPro>
+		<Datacons>43814</Datacons>
+		<disp>=</disp>
+		<pz1>1</pz1>
+		<h1>39.5</h1>
+		<s1>18</s1>
+		<l1>5360</l1>
+		<dis1>28199</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>42CD4</mat1>
+		<forn1>SIDERTOCE</forn1>
+		<nbar1>1</nbar1>
+		<hg1>45</hg1>
+		<sg1>25</sg1>
+		<lg1>5360</lg1>
+		<kg1>47.9536875</kg1>
+		<ava1>0</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3>150</ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>181</buono>
+		<noteop> </noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>298</rif>
+		<nc>1176</nc>
+		<Date>43464</Date>
+		<idCl>123678</idCl>
+		<name>SEKO</name>
+		<prod>LAMA per PRESSA PIEGATRICE 10</prod>
+		<idPro>10</idPro>
+		<Datacons>43480</Datacons>
+		<disp>=</disp>
+		<pz1>1</pz1>
+		<h1>197</h1>
+		<s1>35</s1>
+		<l1>5360</l1>
+		<dis1>28196</dis1>
+		<pz2>1</pz2>
+		<h2>59</h2>
+		<s2>52</s2>
+		<l2>5360</l2>
+		<dis2>28233</dis2>
+		<npz3>1</npz3>
+		<h3>35</h3>
+		<s3>18</s3>
+		<l3>5360</l3>
+		<dis3>28197</dis3>
+		<mat1>42CD4</mat1>
+		<forn1>SIDERTOCE</forn1>
+		<nbar1>1</nbar1>
+		<hg1>200</hg1>
+		<sg1>40</sg1>
+		<lg1>5360</lg1>
+		<kg1>341.004</kg1>
+		<ava1>0</ava1>
+		<mat2>42CD4</mat2>
+		<forn2>SIDERTOCE</forn2>
+		<nbar2>1</nbar2>
+		<hg2>65</hg2>
+		<sg2>55</sg2>
+		<lg2>5360</lg2>
+		<kg2>152.38</kg2>
+		<ava2>0</ava2>
+		<mat3>42CD4</mat3>
+		<forn3>SIDERTOCE</forn3>
+		<nbar3>1</nbar3>
+		<hg3>40</hg3>
+		<sg3>25</sg3>
+		<lg3>5360</lg3>
+		<kg3>42.6255</kg3>
+		<ava3>0</ava3>
+		<ord3>150</ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>181</buono>
+		<noteop>ELETTROEROSIONE PARZIALE</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>307</rif>
+		<nc>1182</nc>
+		<Date>43464</Date>
+		<idCl>18400</idCl>
+		<name>SALICO</name>
+		<prod>TRANCIASFRIDI 04</prod>
+		<idPro>4</idPro>
+		<Datacons>43480</Datacons>
+		<disp>=</disp>
+		<pz1>2</pz1>
+		<h1>70</h1>
+		<s1>20</s1>
+		<l1>1750</l1>
+		<dis1>CER 141OB109</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>3EB4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>75</hg1>
+		<sg1>25</sg1>
+		<lg1>5200</lg1>
+		<kg1>52.5459375</kg1>
+		<ava1>1700</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3/>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>182</buono>
+		<noteop>ELETTROEROSIONE PARZIALE</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>308</rif>
+		<nc>1183</nc>
+		<Date>43463</Date>
+		<idCl>15875</idCl>
+		<name>STAM</name>
+		<prod>TRANCIASFRIDI 04</prod>
+		<idPro>4</idPro>
+		<Datacons>43830</Datacons>
+		<disp>=</disp>
+		<pz1>8</pz1>
+		<h1>35</h1>
+		<s1>16</s1>
+		<l1>150</l1>
+		<dis1>DV10/B09</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>1EB1</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>8</nbar1>
+		<hg1>40</hg1>
+		<sg1>20</sg1>
+		<lg1>160</lg1>
+		<kg1>11.304</kg1>
+		<ava1>5</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>0</buono>
+		<noteop>ELETTROEROSIONE PARZIALE</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>309</rif>
+		<nc>1184</nc>
+		<Date>43463</Date>
+		<idCl>19793</idCl>
+		<name>ALESSANDRINI</name>
+		<prod>LAMA per P.P. TEMPERATA E RETTIFICATA 13</prod>
+		<idPro>13</idPro>
+		<Datacons>43496</Datacons>
+		<disp>=</disp>
+		<pz1>1</pz1>
+		<h1>175</h1>
+		<s1>26</s1>
+		<l1>835</l1>
+		<dis1>8033/2</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>C 50</mat1>
+		<forn1>SIDERTOCE</forn1>
+		<nbar1>1</nbar1>
+		<hg1>180</hg1>
+		<sg1>30</sg1>
+		<lg1>900</lg1>
+		<kg1>38.5749</kg1>
+		<ava1>60</ava1>
+		<mat2> </mat2>
+		<forn2>=</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2/>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3/>
+		<ord3>156</ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>184</buono>
+		<noteop> </noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>245</rif>
+		<nc>1147</nc>
+		<Date>43463</Date>
+		<idCl>12693</idCl>
+		<name>NOVASTILMEC</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>1</idPro>
+		<Datacons>43514</Datacons>
+		<disp>=</disp>
+		<pz1>1</pz1>
+		<h1>60</h1>
+		<s1>25</s1>
+		<l1>1750</l1>
+		<dis1>UTE 1205052</dis1>
+		<pz2>1</pz2>
+		<h2>60</h2>
+		<s2>25</s2>
+		<l2>1760</l2>
+		<dis2>UTE 1205053</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>65</hg1>
+		<sg1>30</sg1>
+		<lg1>1760</lg1>
+		<kg1>26.8646625</kg1>
+		<ava1>5</ava1>
+		<mat2> 3B4</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>1</nbar2>
+		<hg2>65</hg2>
+		<sg2>30</sg2>
+		<lg2>1760</lg2>
+		<kg2>27.017</kg2>
+		<ava2>-5</ava2>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3>-</ava3>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>180</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>290</rif>
+		<nc>1171</nc>
+		<Date>43463</Date>
+		<idCl>5071</idCl>
+		<name>FIMI</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>1</idPro>
+		<Datacons>43828</Datacons>
+		<disp>=</disp>
+		<pz1>2</pz1>
+		<h1>70</h1>
+		<s1>20</s1>
+		<l1>1800</l1>
+		<dis1>40.7544.00</dis1>
+		<pz2> </pz2>
+		<h2> </h2>
+		<s2> </s2>
+		<l2> </l2>
+		<dis2> </dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1>3V1</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>75</hg1>
+		<sg1>25</sg1>
+		<lg1>3650</lg1>
+		<kg1>53.1346875</kg1>
+		<ava1>1845</ava1>
+		<mat2> </mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2/>
+		<ava2>0</ava2>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3>-</ava3>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>180</buono>
+		<noteop>FINITURA DI TANGENZIALE</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>243</rif>
+		<nc>1145</nc>
+		<Date>43463</Date>
+		<idCl>12693</idCl>
+		<name>NOVASTILMEC</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>1</idPro>
+		<Datacons>43813</Datacons>
+		<disp>=</disp>
+		<pz1>1</pz1>
+		<h1>60</h1>
+		<s1>25</s1>
+		<l1>1750</l1>
+		<dis1>UTE 1205052</dis1>
+		<pz2>1</pz2>
+		<h2>60</h2>
+		<s2>25</s2>
+		<l2>1750</l2>
+		<dis2>UTE 1205053</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>90</hg1>
+		<sg1>30</sg1>
+		<lg1>1755</lg1>
+		<kg1>37.197225</kg1>
+		<ava1>0</ava1>
+		<mat2> 3B4</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>1</nbar2>
+		<hg2>90</hg2>
+		<sg2>30</sg2>
+		<lg2>1755</lg2>
+		<kg2>37.19</kg2>
+		<ava2>0</ava2>
+		<mat3> </mat3>
+		<forn3>=</forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3>-</ava3>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>179</buono>
+		<noteop>RICAVARE DA BARRA SINGOLA</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>244</rif>
+		<nc>1146</nc>
+		<Date>43479</Date>
+		<idCl>12693</idCl>
+		<name>NOVASTILMEC</name>
+		<prod>LAME per CESOIA 01</prod>
+		<idPro>1</idPro>
+		<Datacons>43813</Datacons>
+		<disp>=</disp>
+		<pz1>1</pz1>
+		<h1>60</h1>
+		<s1>30</s1>
+		<l1>1750</l1>
+		<dis1>UTE1205045</dis1>
+		<pz2>1</pz2>
+		<h2>55</h2>
+		<s2>30</s2>
+		<l2>1750</l2>
+		<dis2>UTE1205046</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>1</nbar1>
+		<hg1>130</hg1>
+		<sg1>35</sg1>
+		<lg1>2190</lg1>
+		<kg1>62.6842125</kg1>
+		<ava1>435</ava1>
+		<mat2> </mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2> </nbar2>
+		<hg2> </hg2>
+		<sg2> </sg2>
+		<lg2> </lg2>
+		<kg2>0</kg2>
+		<ava2>0</ava2>
+		<mat3> </mat3>
+		<forn3> </forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3>-</ava3>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>174</buono>
+		<noteop>TAGLIARE GREZZO DI PIALLA</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>242</rif>
+		<nc>1144</nc>
+		<Date>43454</Date>
+		<idCl>5071</idCl>
+		<name>FIMI</name>
+		<prod>TRANCIASFRIDI 04</prod>
+		<idPro>4</idPro>
+		<Datacons>43454</Datacons>
+		<disp>NON Impegnativa</disp>
+		<pz1>8</pz1>
+		<h1>25</h1>
+		<s1>45</s1>
+		<l1>168,8</l1>
+		<dis1>4.739.117.103</dis1>
+		<pz2>8</pz2>
+		<h2>25</h2>
+		<s2>45</s2>
+		<l2>168,8</l2>
+		<dis2>4.739.118.103</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>8</nbar1>
+		<hg1>30</hg1>
+		<sg1>50</sg1>
+		<lg1>200</lg1>
+		<kg1>16.37196</kg1>
+		<ava1>26.2</ava1>
+		<mat2> 3B4</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>8</nbar2>
+		<hg2>30</hg2>
+		<sg2>50</sg2>
+		<lg2>200</lg2>
+		<kg2>16.37</kg2>
+		<ava2>26.2</ava2>
+		<mat3> </mat3>
+		<forn3> </forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3>-</ava3>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>158</buono>
+		<noteop>UTILIZZARE AVANZI</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>214</rif>
+		<nc>1125</nc>
+		<Date>43418</Date>
+		<idCl>5071</idCl>
+		<name>FIMI</name>
+		<prod>TRANCIASFRIDI 04</prod>
+		<idPro>4</idPro>
+		<Datacons>43448</Datacons>
+		<disp>TASSATIVA</disp>
+		<pz1>24</pz1>
+		<h1>95</h1>
+		<s1>25</s1>
+		<l1>120</l1>
+		<dis1>4.757.164.100</dis1>
+		<pz2>24</pz2>
+		<h2>95</h2>
+		<s2>25</s2>
+		<l2>120</l2>
+		<dis2>4.757.165.100</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>24</nbar1>
+		<hg1>100</hg1>
+		<sg1>30</sg1>
+		<lg1>125</lg1>
+		<kg1>70.65</kg1>
+		<ava1>0</ava1>
+		<mat2>3EB4</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>24</nbar2>
+		<hg2>100</hg2>
+		<sg2>30</sg2>
+		<lg2>125</lg2>
+		<kg2>70.65</kg2>
+		<ava2>0</ava2>
+		<mat3> </mat3>
+		<forn3> </forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3>-</ava3>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>127</buono>
+		<noteop>UTILIZZARE AVANZI</noteop>
+	</card>
+	<card>
+		<esercizio>2018</esercizio>
+		<rif>253</rif>
+		<nc>1136</nc>
+		<Date>43494</Date>
+		<idCl>5071</idCl>
+		<name>FIMI</name>
+		<prod>TRANCIASFRIDI 04</prod>
+		<idPro>4</idPro>
+		<Datacons>43494</Datacons>
+		<disp>URGENTE</disp>
+		<pz1>16</pz1>
+		<h1>25</h1>
+		<s1>45</s1>
+		<l1>168,8</l1>
+		<dis1>4.739.117.103</dis1>
+		<pz2>16</pz2>
+		<h2>25</h2>
+		<s2>45</s2>
+		<l2>168,8</l2>
+		<dis2>4.739.118.103</dis2>
+		<npz3> </npz3>
+		<h3> </h3>
+		<s3> </s3>
+		<l3> </l3>
+		<dis3> </dis3>
+		<mat1> 3B4</mat1>
+		<forn1>NS.MAGAZ.</forn1>
+		<nbar1>16</nbar1>
+		<hg1>30</hg1>
+		<sg1>50</sg1>
+		<lg1>200</lg1>
+		<kg1>32.74392</kg1>
+		<ava1>26.2</ava1>
+		<mat2> 3B4</mat2>
+		<forn2>NS.MAGAZ.</forn2>
+		<nbar2>16</nbar2>
+		<hg2>30</hg2>
+		<sg2>50</sg2>
+		<lg2>200</lg2>
+		<kg2>32.74</kg2>
+		<ava2>26.2</ava2>
+		<mat3> </mat3>
+		<forn3> </forn3>
+		<nbar3> </nbar3>
+		<hg3> </hg3>
+		<sg3> </sg3>
+		<lg3> </lg3>
+		<kg3/>
+		<ava3>-</ava3>
+		<ord3> </ord3>
+		<for> </for>
+		<des> </des>
+		<ord> </ord>
+		<kgpz> </kgpz>
+		<buono>175</buono>
+		<noteop>UTILIZZARE AVANZI</noteop>
+	</card>
+	</xs>
